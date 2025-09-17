@@ -1,6 +1,6 @@
 import unittest
 
-from munch_group_template.modulename import functionname
+from primate_accel_reg.modulename import functionname
 
 class TestModulename(unittest.TestCase):
 
